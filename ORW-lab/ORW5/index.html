@@ -1,0 +1,32 @@
+<!DOCTYPE>
+<HTML>
+<HEAD>
+<TITLE>Uzycie setInterval()</TITLE>
+<SCRIPT LANGUAGE="JavaScript1.2"><!--
+colors = new Array("red","orange","green","blue","brown","purple","gray","white")
+
+colorIndex = 0
+
+function changeColor() {
+ document.bgColor = colors[colorIndex]
+ colorIndex = (colorIndex + 1) % colors.length
+};
+
+function startColorChange() {
+ idInterwalu = setInterval("changeColor()",3000)
+};
+
+function stopColorChange() {
+clearInterval(idInterwalu)};
+
+</SCRIPT>
+
+</HEAD>
+<BODY BGCOLOR="white">
+
+<P>Zmiana kolorów przez przyciski</P>
+<button onclick="startColorChange()">Start</button>
+<button onclick="stopColorChange()">Stop</button>
+</BODY>
+</HTML>
+           
