@@ -1,0 +1,7 @@
+c:\users\michał\documents\visual studio 2012\Projects\UnitTestProject1\UnitTestProject1\obj\Debug\UnitTestProject1.csprojResolveAssemblyReference.cache
+c:\users\michał\documents\visual studio 2012\Projects\UnitTestProject1\UnitTestProject1\bin\Debug\UnitTestProject1.dll
+c:\users\michał\documents\visual studio 2012\Projects\UnitTestProject1\UnitTestProject1\bin\Debug\UnitTestProject1.pdb
+c:\users\michał\documents\visual studio 2012\Projects\UnitTestProject1\UnitTestProject1\bin\Debug\MathsComponent.dll
+c:\users\michał\documents\visual studio 2012\Projects\UnitTestProject1\UnitTestProject1\bin\Debug\MathsComponent.pdb
+c:\users\michał\documents\visual studio 2012\Projects\UnitTestProject1\UnitTestProject1\obj\Debug\UnitTestProject1.dll
+c:\users\michał\documents\visual studio 2012\Projects\UnitTestProject1\UnitTestProject1\obj\Debug\UnitTestProject1.pdb
